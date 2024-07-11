@@ -1,2 +1,2 @@
-## :HELLO INTRODUCTION
-### :STAR 신유영
+## :baby_chick: INTRODUCTION
+### :egg: 신유영
